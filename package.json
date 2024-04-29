@@ -1,0 +1,16 @@
+{
+    "name": "blog",
+    "version": "1.0.0",
+    "description": "A simple blog",
+    "scripts": {},
+    "author": {
+        "name": "Adriel Santiago",
+        "email": "adrielsantiago6@gmail.com",
+        "url": "https://github.com/Graviole"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@somosprte/eslint-config": "^1.8.0"
+    },
+    "eslintConfig": {}
+}
